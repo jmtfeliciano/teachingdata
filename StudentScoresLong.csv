@@ -1,10 +1,10 @@
-﻿Student,Subject,Score
-A,Math ,99
-A,Literature,45
+﻿student,subject,score
+A,math ,99
+A,literature,45
 A,PE,56
-B,Math ,73
-B,Literature,78
+B,math ,73
+B,literature,78
 B,PE,55
-C,Math ,12
-C,Literature,96
+C,math ,12
+C,literature,96
 C,PE,57
