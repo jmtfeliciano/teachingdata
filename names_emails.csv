@@ -1,6 +1,6 @@
-﻿first_name,middle_name,last_name,email_address
-Joseph,Robinett,Biden,Joseph.Biden@gmail.com
-Kamala,Devi,Harris,Kamala.Harris@gmail.com
-Timothy,James,Walz,Timothy.Walz@gmail.com
-Donald,John,Trump,Donald.Trump@gmail.com
-James,David,Vance,James.Vance@gmail.com
+﻿first_name,middle_name,last_name,email_address,highest_donation
+Joseph,Robinett,Biden,Joseph.Biden@gmail.com,50
+Kamala,Devi,Harris,Kamala.Harris@gmail.com,40
+Timothy,James,Walz,Timothy.Walz@gmail.com,12
+Donald,John,Trump,Donald.Trump@gmail.com,35
+James,David,Vance,James.Vance@gmail.com,29
