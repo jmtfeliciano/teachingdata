@@ -1,0 +1,101 @@
+diagnosis,age,gender,hospital_visit_count,severity,treatment_type
+Heart Disease,45,Female,6,Moderate,Therapy
+Cancer,70,Female,4,Moderate,Observation
+Liver Disease,44,Female,9,Moderate,Medication
+COPD,38,Male,1,Moderate,Medication
+Stroke,40,Male,2,Severe,Surgery
+Ebola,50,Male,6,Moderate,Therapy
+Hypertension,48,Male,5,Mild,Medication
+Diabetes,28,Male,2,Moderate,Observation
+Arthritis,38,Male,6,Severe,Observation
+Flu,45,Male,1,Mild,Therapy
+Pneumonia,44,Female,7,Severe,Therapy
+Liver Disease,59,Male,9,Severe,Surgery
+Liver Disease,62,Female,9,Severe,Therapy
+Cancer,79,Male,7,Severe,Observation
+Stroke,48,Female,4,Moderate,Observation
+Heart Disease,44,Male,5,Severe,Medication
+Diabetes,38,Female,5,Moderate,Observation
+Kidney Disease,23,Female,4,Moderate,Observation
+Hypertension,64,Male,7,Severe,Medication
+Liver Disease,39,Female,6,Mild,Surgery
+Flu,65,Female,9,Severe,Therapy
+Stroke,74,Male,2,Severe,Medication
+Arthritis,20,Female,4,Moderate,Medication
+Arthritis,30,Male,9,Moderate,Surgery
+Arthritis,23,Male,2,Moderate,Therapy
+Hypertension,26,Male,6,Moderate,Therapy
+Asthma,47,Female,9,Severe,Therapy
+Chikungunya,55,Female,1,Mild,Medication
+Asthma,77,Male,4,Mild,Observation
+Asthma,26,Male,8,Mild,Observation
+Arthritis,39,Female,2,Mild,Medication
+Cancer,54,Male,8,Moderate,Observation
+Hypertension,70,Male,9,Severe,Surgery
+Arthritis,70,Female,1,Moderate,Observation
+Asthma,58,Male,8,Moderate,Medication
+Cancer,40,Female,6,Severe,Observation
+Cancer,63,Female,7,Severe,Surgery
+Asthma,74,Male,9,Severe,Observation
+Flu,20,Male,8,Moderate,Observation
+Diabetes,56,Female,6,Mild,Surgery
+Asthma,65,Female,2,Moderate,Therapy
+Kidney Disease,61,Female,1,Moderate,Surgery
+Diabetes,22,Male,1,Severe,Observation
+Asthma,53,Male,6,Moderate,Therapy
+Malaria,32,Female,7,Mild,Therapy
+Heart Disease,35,Male,4,Mild,Medication
+Zika,74,Male,7,Moderate,Medication
+Hypertension,53,Female,2,Severe,Surgery
+Stroke,43,Female,8,Moderate,Surgery
+Flu,32,Male,8,Mild,Surgery
+Pneumonia,25,Male,1,Mild,Observation
+Arthritis,58,Male,8,Moderate,Surgery
+Diabetes,21,Male,7,Mild,Medication
+Arthritis,30,Female,1,Moderate,Surgery
+Cancer,26,Female,5,Mild,Therapy
+Heart Disease,26,Female,3,Severe,Medication
+Flu,58,Female,8,Mild,Therapy
+MERS,58,Male,6,Moderate,Observation
+Arthritis,31,Male,3,Moderate,Surgery
+Kidney Disease,70,Female,9,Severe,Medication
+Stroke,41,Male,6,Mild,Therapy
+Cancer,70,Male,7,Moderate,Medication
+Hypertension,70,Female,7,Mild,Therapy
+Pneumonia,71,Male,5,Severe,Medication
+Hypertension,22,Male,2,Moderate,Therapy
+Cancer,32,Male,6,Severe,Observation
+Arthritis,49,Female,5,Moderate,Therapy
+Pneumonia,29,Male,6,Mild,Therapy
+Pneumonia,71,Female,6,Moderate,Medication
+Flu,28,Female,7,Severe,Therapy
+Asthma,25,Male,4,Moderate,Therapy
+Stroke,72,Female,9,Severe,Surgery
+Arthritis,73,Female,2,Moderate,Therapy
+Asthma,63,Male,5,Severe,Surgery
+Kidney Disease,21,Male,3,Mild,Medication
+Liver Disease,63,Male,8,Moderate,Therapy
+Kidney Disease,35,Male,5,Mild,Observation
+Cancer,32,Male,2,Moderate,Medication
+Arthritis,67,Female,9,Moderate,Observation
+Cancer,32,Female,3,Mild,Surgery
+Liver Disease,41,Female,4,Severe,Surgery
+Liver Disease,76,Male,4,Mild,Observation
+Pneumonia,38,Female,5,Mild,Observation
+Pneumonia,45,Female,2,Moderate,Observation
+Cancer,33,Male,7,Severe,Medication
+SARS,50,Female,3,Severe,Observation
+Kidney Disease,48,Male,6,Mild,Therapy
+Cancer,64,Male,5,Mild,Medication
+Liver Disease,61,Male,2,Severe,Surgery
+Arthritis,41,Male,6,Mild,Observation
+Asthma,26,Female,5,Moderate,Surgery
+Flu,56,Female,6,Moderate,Therapy
+Liver Disease,68,Female,8,Mild,Observation
+Heart Disease,60,Female,5,Moderate,Surgery
+Liver Disease,46,Female,5,Severe,Therapy
+Kidney Disease,50,Male,3,Mild,Observation
+COPD,25,Female,3,Moderate,Therapy
+COPD,35,Male,2,Mild,Observation
+Flu,57,Female,4,Severe,Therapy
+Stroke,57,Female,1,Moderate,Surgery
