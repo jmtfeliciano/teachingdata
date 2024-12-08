@@ -1,0 +1,105 @@
+GEOID,NAME,variable,income_estimate
+01,Alabama,median_disabled,27689
+01,Alabama,median_non_disabled,37546
+02,Alaska,median_disabled,34190
+02,Alaska,median_non_disabled,47126
+04,Arizona,median_disabled,30400
+04,Arizona,median_non_disabled,41775
+05,Arkansas,median_disabled,26726
+05,Arkansas,median_non_disabled,36813
+06,California,median_disabled,31838
+06,California,median_non_disabled,45749
+08,Colorado,median_disabled,32400
+08,Colorado,median_non_disabled,47841
+09,Connecticut,median_disabled,29645
+09,Connecticut,median_non_disabled,50547
+10,Delaware,median_disabled,29511
+10,Delaware,median_non_disabled,44511
+11,District of Columbia,median_disabled,44920
+11,District of Columbia,median_non_disabled,77346
+12,Florida,median_disabled,28711
+12,Florida,median_non_disabled,38491
+13,Georgia,median_disabled,30043
+13,Georgia,median_non_disabled,41076
+15,Hawaii,median_disabled,37779
+15,Hawaii,median_non_disabled,45240
+16,Idaho,median_disabled,24448
+16,Idaho,median_non_disabled,36867
+17,Illinois,median_disabled,29723
+17,Illinois,median_non_disabled,45722
+18,Indiana,median_disabled,27847
+18,Indiana,median_non_disabled,40853
+19,Iowa,median_disabled,25878
+19,Iowa,median_non_disabled,42030
+20,Kansas,median_disabled,27484
+20,Kansas,median_non_disabled,41101
+21,Kentucky,median_disabled,26099
+21,Kentucky,median_non_disabled,38317
+22,Louisiana,median_disabled,27339
+22,Louisiana,median_non_disabled,38689
+23,Maine,median_disabled,26734
+23,Maine,median_non_disabled,41412
+24,Maryland,median_disabled,37396
+24,Maryland,median_non_disabled,54118
+25,Massachusetts,median_disabled,31582
+25,Massachusetts,median_non_disabled,54245
+26,Michigan,median_disabled,25398
+26,Michigan,median_non_disabled,40622
+27,Minnesota,median_disabled,27124
+27,Minnesota,median_non_disabled,47807
+28,Mississippi,median_disabled,25649
+28,Mississippi,median_non_disabled,35136
+29,Missouri,median_disabled,27588
+29,Missouri,median_non_disabled,40602
+30,Montana,median_disabled,24677
+30,Montana,median_non_disabled,37346
+31,Nebraska,median_disabled,28683
+31,Nebraska,median_non_disabled,41850
+32,Nevada,median_disabled,32991
+32,Nevada,median_non_disabled,40612
+33,New Hampshire,median_disabled,30080
+33,New Hampshire,median_non_disabled,49006
+34,New Jersey,median_disabled,34161
+34,New Jersey,median_non_disabled,52741
+35,New Mexico,median_disabled,25032
+35,New Mexico,median_non_disabled,35586
+36,New York,median_disabled,31488
+36,New York,median_non_disabled,48021
+37,North Carolina,median_disabled,28284
+37,North Carolina,median_non_disabled,40176
+38,North Dakota,median_disabled,30625
+38,North Dakota,median_non_disabled,44441
+39,Ohio,median_disabled,26266
+39,Ohio,median_non_disabled,41594
+40,Oklahoma,median_disabled,29149
+40,Oklahoma,median_non_disabled,38085
+41,Oregon,median_disabled,27654
+41,Oregon,median_non_disabled,42841
+42,Pennsylvania,median_disabled,27743
+42,Pennsylvania,median_non_disabled,44436
+44,Rhode Island,median_disabled,29656
+44,Rhode Island,median_non_disabled,46182
+45,South Carolina,median_disabled,28655
+45,South Carolina,median_non_disabled,38590
+46,South Dakota,median_disabled,25674
+46,South Dakota,median_non_disabled,40712
+47,Tennessee,median_disabled,28975
+47,Tennessee,median_non_disabled,39499
+48,Texas,median_disabled,30480
+48,Texas,median_non_disabled,41579
+49,Utah,median_disabled,28818
+49,Utah,median_non_disabled,40441
+50,Vermont,median_disabled,23809
+50,Vermont,median_non_disabled,42229
+51,Virginia,median_disabled,33221
+51,Virginia,median_non_disabled,47509
+53,Washington,median_disabled,35130
+53,Washington,median_non_disabled,50633
+54,West Virginia,median_disabled,26955
+54,West Virginia,median_non_disabled,36962
+55,Wisconsin,median_disabled,26910
+55,Wisconsin,median_non_disabled,43750
+56,Wyoming,median_disabled,28190
+56,Wyoming,median_non_disabled,41072
+72,Puerto Rico,median_disabled,17102
+72,Puerto Rico,median_non_disabled,19767
