@@ -1,4 +1,4 @@
-patient_id,age,sex,month1,month2,month3,month4
+patient_id,age,sex,month0,month1,month2,month3
 Subject1,47,Male,162,128,132,113
 Subject2,49,Male,160,122,142,109
 Subject3,39,Male,140,152,132,110
