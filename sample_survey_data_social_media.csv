@@ -1,0 +1,51 @@
+respondent_id,age,hours_online,primary_platform,satisfaction_primary_platform
+1,56,7,LinkedIn,Satisfied
+2,46,9,Facebook,Satisfied
+3,32,8,Facebook,Satisfied
+4,60,2,Facebook,Very Satisfied
+5,25,1,Facebook,Neutral
+6,38,7,Twitter,Very Dissatisfied
+7,56,7,Facebook,Satisfied
+8,36,8,LinkedIn,Dissatisfied
+9,40,5,TikTok,Satisfied
+10,28,3,Facebook,Dissatisfied
+11,28,8,Twitter,Dissatisfied
+12,41,6,Twitter,Satisfied
+13,53,11,Facebook,Very Satisfied
+14,57,3,TikTok,Dissatisfied
+15,41,1,Facebook,Dissatisfied
+16,20,3,Twitter,Satisfied
+17,39,5,Instagram,Dissatisfied
+18,19,3,LinkedIn,Dissatisfied
+19,41,1,Twitter,Satisfied
+20,61,5,Facebook,Satisfied
+21,47,10,LinkedIn,Very Dissatisfied
+22,55,7,Facebook,Very Satisfied
+23,19,7,Facebook,Very Satisfied
+24,38,11,Instagram,Dissatisfied
+25,50,9,LinkedIn,Very Satisfied
+26,29,10,LinkedIn,Dissatisfied
+27,39,10,Instagram,Very Dissatisfied
+28,61,3,Twitter,Satisfied
+29,42,7,Facebook,Satisfied
+30,44,1,TikTok,Satisfied
+31,59,4,Facebook,Very Satisfied
+32,45,4,Facebook,Very Dissatisfied
+33,33,5,Twitter,Very Satisfied
+34,32,7,Facebook,Very Satisfied
+35,64,7,Instagram,Very Dissatisfied
+36,61,11,Instagram,Very Dissatisfied
+37,20,4,LinkedIn,Very Dissatisfied
+38,54,7,TikTok,Very Dissatisfied
+39,24,11,Facebook,Satisfied
+40,38,3,Facebook,Neutral
+41,26,6,Twitter,Neutral
+42,56,2,Instagram,Very Dissatisfied
+43,35,10,TikTok,Neutral
+44,21,9,LinkedIn,Neutral
+45,42,5,Instagram,Very Dissatisfied
+46,31,6,LinkedIn,Neutral
+47,26,4,Twitter,Very Satisfied
+48,43,11,Twitter,Dissatisfied
+49,19,10,Facebook,Dissatisfied
+50,37,7,TikTok,Very Dissatisfied
