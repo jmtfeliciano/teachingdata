@@ -1,0 +1,101 @@
+respondent_id,age,gender,purchase_frequency,product_satisfaction
+1,39,Female,Rarely,Very Dissatisfified
+2,24,Female,Frequently,Dissatisfified
+3,61,Male,Always,Neutral
+4,41,Prefer not to say,Occasionally,Dissatisfified
+5,21,Female,Rarely,Very Satisfified
+6,33,Male,Always,Very Satisfified
+7,51,Non-binary,Always,Dissatisfified
+8,18,Male,Frequently,Very Dissatisfified
+9,27,Non-binary,Always,Very Satisfified
+10,55,Female,Rarely,Very Dissatisfified
+11,63,Prefer not to say,Rarely,Dissatisfified
+12,58,Non-binary,Frequently,Dissatisfified
+13,29,Prefer not to say,Rarely,Dissatisfified
+14,44,Prefer not to say,Frequently,Very Dissatisfified
+15,41,Female,Frequently,Very Satisfified
+16,29,Prefer not to say,Occasionally,Very Dissatisfified
+17,38,Non-binary,Always,Dissatisfified
+18,65,Male,Always,Satisfified
+19,33,Prefer not to say,Always,Very Dissatisfified
+20,20,Prefer not to say,Rarely,Neutral
+21,56,Prefer not to say,Frequently,Dissatisfified
+22,63,Male,Rarely,Satisfified
+23,30,Prefer not to say,Frequently,Satisfified
+24,61,Prefer not to say,Always,Very Dissatisfified
+25,40,Non-binary,Always,Satisfified
+26,23,Male,Frequently,Dissatisfified
+27,60,Female,Always,Dissatisfified
+28,31,Prefer not to say,Occasionally,Very Dissatisfified
+29,25,Non-binary,Frequently,Neutral
+30,59,Male,Frequently,Very Dissatisfified
+31,18,Non-binary,Frequently,Dissatisfified
+32,58,Non-binary,Always,Neutral
+33,38,Prefer not to say,Always,Very Satisfified
+34,25,Male,Occasionally,Neutral
+35,27,Non-binary,Always,Very Dissatisfified
+36,27,Female,Occasionally,Very Satisfified
+37,48,Female,Rarely,Neutral
+38,38,Prefer not to say,Always,Neutral
+39,50,Male,Rarely,Very Dissatisfified
+40,48,Female,Always,Neutral
+41,51,Prefer not to say,Rarely,Very Dissatisfified
+42,47,Female,Frequently,Very Dissatisfified
+43,32,Male,Occasionally,Very Satisfified
+44,37,Non-binary,Always,Satisfified
+45,24,Female,Always,Very Satisfified
+46,27,Prefer not to say,Rarely,Very Satisfified
+47,20,Non-binary,Occasionally,Very Satisfified
+48,29,Male,Frequently,Very Satisfified
+49,59,Male,Frequently,Satisfified
+50,37,Male,Frequently,Very Satisfified
+51,20,Non-binary,Always,Dissatisfified
+52,39,Female,Occasionally,Very Satisfified
+53,28,Male,Frequently,Very Satisfified
+54,29,Non-binary,Occasionally,Satisfified
+55,38,Prefer not to say,Always,Dissatisfified
+56,26,Female,Occasionally,Very Dissatisfified
+57,29,Male,Rarely,Neutral
+58,21,Female,Always,Very Dissatisfified
+59,37,Male,Rarely,Satisfified
+60,32,Female,Always,Satisfified
+61,18,Prefer not to say,Frequently,Very Dissatisfified
+62,22,Male,Occasionally,Satisfified
+63,26,Non-binary,Rarely,Very Satisfified
+64,57,Female,Rarely,Very Dissatisfified
+65,23,Prefer not to say,Frequently,Dissatisfified
+66,53,Non-binary,Rarely,Neutral
+67,18,Non-binary,Occasionally,Very Satisfified
+68,38,Male,Occasionally,Satisfified
+69,23,Male,Always,Neutral
+70,29,Female,Always,Dissatisfified
+71,44,Non-binary,Frequently,Very Dissatisfified
+72,62,Female,Rarely,Very Satisfified
+73,49,Male,Frequently,Neutral
+74,56,Non-binary,Occasionally,Satisfified
+75,21,Female,Frequently,Very Dissatisfified
+76,20,Prefer not to say,Rarely,Neutral
+77,18,Prefer not to say,Rarely,Very Dissatisfified
+78,55,Male,Occasionally,Very Dissatisfified
+79,38,Non-binary,Always,Very Satisfified
+80,60,Non-binary,Frequently,Satisfified
+81,39,Male,Rarely,Neutral
+82,32,Male,Always,Very Dissatisfified
+83,59,Male,Rarely,Neutral
+84,22,Male,Frequently,Very Satisfified
+85,32,Female,Frequently,Satisfified
+86,48,Prefer not to say,Rarely,Dissatisfified
+87,36,Female,Occasionally,Very Satisfified
+88,34,Prefer not to say,Rarely,Dissatisfified
+89,28,Female,Always,Satisfified
+90,38,Male,Rarely,Neutral
+91,59,Female,Frequently,Dissatisfified
+92,29,Female,Occasionally,Dissatisfified
+93,62,Prefer not to say,Occasionally,Dissatisfified
+94,27,Female,Occasionally,Satisfified
+95,42,Male,Always,Dissatisfified
+96,29,Non-binary,Frequently,Very Dissatisfified
+97,48,Male,Occasionally,Very Dissatisfified
+98,24,Male,Rarely,Very Satisfified
+99,54,Non-binary,Rarely,Very Dissatisfified
+100,38,Female,Rarely,Very Dissatisfified
