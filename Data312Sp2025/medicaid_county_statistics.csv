@@ -1,30 +1,30 @@
 STATE,COUNTY_NAME,GEOID,percent_children_medicaid
-Hawaii,Honolulu County,15003,52.723000000000006
-Hawaii,Kalawao County,15005,53.405
-Hawaii,Kauai County,15007,48.89500000000001
-Hawaii,Maui County,15009,47.003
-Hawaii,Hawaii County,15001,52.833000000000006
-New Jersey,Sussex County,34037,44.887499999999996
-New Jersey,Camden County,34007,60.1875
-New Jersey,Union County,34039,54.525
-New Jersey,Cape May County,34009,54.474999999999994
+Hawaii,Honolulu County,15003,52.72
+Hawaii,Kalawao County,15005,53.41
+Hawaii,Kauai County,15007,48.9
+Hawaii,Maui County,15009,47
+Hawaii,Hawaii County,15001,52.83
+New Jersey,Sussex County,34037,44.89
+New Jersey,Camden County,34007,60.19
+New Jersey,Union County,34039,54.52
+New Jersey,Cape May County,34009,54.47
 New Jersey,Burlington County,34005,50.5
-New Jersey,Middlesex County,34023,55.525000000000006
-New Jersey,Hudson County,34017,67.61250000000001
-New Jersey,Monmouth County,34025,58.5625
+New Jersey,Middlesex County,34023,55.53
+New Jersey,Hudson County,34017,67.61
+New Jersey,Monmouth County,34025,58.56
 New Jersey,Somerset County,34035,59.5
-New Jersey,Ocean County,34029,51.5625
-New Jersey,Gloucester County,34015,61.349999999999994
-New Jersey,Cumberland County,34011,50.7125
-New Jersey,Morris County,34027,54.175000000000004
+New Jersey,Ocean County,34029,51.56
+New Jersey,Gloucester County,34015,61.35
+New Jersey,Cumberland County,34011,50.71
+New Jersey,Morris County,34027,54.18
 New Jersey,Essex County,34013,63.25
-New Jersey,Bergen County,34003,58.112500000000004
-New Jersey,Warren County,34041,61.125
+New Jersey,Bergen County,34003,58.11
+New Jersey,Warren County,34041,61.12
 New Jersey,Passaic County,34031,65.35
-New Jersey,Salem County,34033,52.225
-New Jersey,Hunterdon County,34019,46.537499999999994
-New Jersey,Atlantic County,34001,46.262499999999996
-New Jersey,Mercer County,34021,67.5375
+New Jersey,Salem County,34033,52.23
+New Jersey,Hunterdon County,34019,46.54
+New Jersey,Atlantic County,34001,46.26
+New Jersey,Mercer County,34021,67.54
 Massachusetts,Hampshire County,25015,42.59
 Massachusetts,Suffolk County,25025,48.1
 Massachusetts,Barnstable County,25001,48.06
