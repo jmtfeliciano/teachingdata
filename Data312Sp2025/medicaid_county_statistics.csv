@@ -1,0 +1,41 @@
+STATE,COUNTY_NAME,GEOID,percent_children_medicaid
+Hawaii,Honolulu County,15003,52.723000000000006
+Hawaii,Kalawao County,15005,53.405
+Hawaii,Kauai County,15007,48.89500000000001
+Hawaii,Maui County,15009,47.003
+Hawaii,Hawaii County,15001,52.833000000000006
+New Jersey,Sussex County,34037,44.887499999999996
+New Jersey,Camden County,34007,60.1875
+New Jersey,Union County,34039,54.525
+New Jersey,Cape May County,34009,54.474999999999994
+New Jersey,Burlington County,34005,50.5
+New Jersey,Middlesex County,34023,55.525000000000006
+New Jersey,Hudson County,34017,67.61250000000001
+New Jersey,Monmouth County,34025,58.5625
+New Jersey,Somerset County,34035,59.5
+New Jersey,Ocean County,34029,51.5625
+New Jersey,Gloucester County,34015,61.349999999999994
+New Jersey,Cumberland County,34011,50.7125
+New Jersey,Morris County,34027,54.175000000000004
+New Jersey,Essex County,34013,63.25
+New Jersey,Bergen County,34003,58.112500000000004
+New Jersey,Warren County,34041,61.125
+New Jersey,Passaic County,34031,65.35
+New Jersey,Salem County,34033,52.225
+New Jersey,Hunterdon County,34019,46.537499999999994
+New Jersey,Atlantic County,34001,46.262499999999996
+New Jersey,Mercer County,34021,67.5375
+Massachusetts,Hampshire County,25015,42.59
+Massachusetts,Suffolk County,25025,48.1
+Massachusetts,Barnstable County,25001,48.06
+Massachusetts,Worcester County,25027,44.19
+Massachusetts,Nantucket County,25019,49.06
+Massachusetts,Dukes County,25007,55.98
+Massachusetts,Hampden County,25013,55.25
+Massachusetts,Berkshire County,25003,53.16
+Massachusetts,Bristol County,25005,46.27
+Massachusetts,Middlesex County,25017,47.46
+Massachusetts,Essex County,25009,43.38
+Massachusetts,Norfolk County,25021,36.69
+Massachusetts,Plymouth County,25023,53.84
+Massachusetts,Franklin County,25011,45.13
